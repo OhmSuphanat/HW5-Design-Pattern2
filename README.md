@@ -1,12 +1,15 @@
-# HW-2-state-machine-diagram
+# HW5-Design-Pattern2
 ## การวางโครงสร้างไฟล์
 - src
     - main
         - java
             - org.example
-                - GBMachine.java
-                - GBMachineSys.java
+                - GumballMachine.java
+                - HasQuarter.java
                 - Main.java
-                - GumBall.java
-                - StateException.java
-# HW5-Design-Pattern2
+                - NoQuarter.java
+                - SoldOutState.java
+                - SoldState.java
+                - State.java
+                - WinnerState.java
+
